@@ -124,3 +124,52 @@ A → B → D → F
 Total Cost:
 1 + 2 + 3 = 6
 ```
+---
+
+## 🎯 Key Insights
+
+- CSP ensures no constraint violations  
+- Uses backtracking to explore valid solutions  
+- Efficient for real-world scheduling and assignment problems  
+
+---
+
+## 🚀 Real-World Applications
+
+- Exam scheduling and rescheduling  
+- Resource allocation  
+- Map coloring in GIS systems  
+- AI constraint solving systems  
+
+---
+
+## 🏁 Final Conclusion (Both Projects)
+
+This assignment demonstrates two powerful AI problem-solving techniques:
+
+✅ Graph Search Algorithms (BFS, DFS, A*)  
+✅ Constraint Satisfaction Problem (CSP)  
+
+Together, they show how AI can:
+
+- Explore solutions (search problems)  
+- Satisfy constraints (optimization problems)  
+- Solve real-world computational challenges efficiently  
+
+---
+
+## 📊 Learning Outcome
+
+This project helped understand:
+
+- How different AI strategies behave on the same problem  
+- Importance of algorithm selection  
+- Real-world usage of graph and constraint-based AI systems  
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/vino7075/AI_ProblemSolving_-RA2411026050054__RA2411026050002-
+
+---
