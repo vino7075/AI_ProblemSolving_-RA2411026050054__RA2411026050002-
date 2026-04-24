@@ -11,7 +11,6 @@ AI_ProblemSolving_-RA2411026050054__RA2411026050002-
 ## 👥 Team Members
 
 - Sree Abbirami (RA2411026050002)
-
 - Vino Bala (RA2411026050054)
 
 ---
@@ -67,8 +66,7 @@ The system allows users to:
 | _ _ _ | 4 1 9 | _ _ 5 |
 | _ _ _ | _ 8 _ | _ 7 9 |
 +-----------------------+
-
----
+```
 <div align="center">
 
 # 🚗 Smart Navigation System using BFS, DFS & A* Algorithm
@@ -86,15 +84,6 @@ A professional Python desktop application that finds the best route between citi
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
 
 </div>
-
----
-
-## 👥 Team Members
-
-- Sree Abbirami (RA2411026050002)
-- Vino Bala (RA2411026050054)
-
----
 
 ## 📌 About The Project
 
@@ -134,5 +123,4 @@ A → B → D → F
 
 Total Cost:
 1 + 2 + 3 = 6
-
-
+```
